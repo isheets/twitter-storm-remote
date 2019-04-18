@@ -1,0 +1,3 @@
+#!/bin/bash
+mvn install
+storm jar target/twitter_storm-1.0-SNAPSHOT.jar com.bde.twitter_storm.App EtlxxJXmRs8hfr7TS9Y4PzDHN EBIhCbAmchKcQCNqjKrFIGgIHzaeC7gErclp8oZyZh7ASZKEgW 2707728705-w1cuPeV4GXRMmU6jA1l6egTHoHsZL9ViaFYpfrP MYtc6XblqwrFuUlhWupJYAPvNjnA5e4TugI9J1LxscrBz
